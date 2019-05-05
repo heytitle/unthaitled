@@ -1,0 +1,27 @@
+#menu-icon-wrapper {
+    display: none;
+}
+
+.hero-body {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    // padding-left: 0;
+    // padding-right: 0;
+    background-image: url("/images/hero-banner.gif");
+
+    .title, .subtitle {
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .title {
+        color: $white;
+        &.is-bold {
+            font-weight: 700;
+        }
+    }
+    .subtitle {
+        &.is-muted {
+            color: $muted-grey;
+        }
+    }
+}

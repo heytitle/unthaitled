@@ -1,0 +1,88 @@
+baseURL: http://unthaitled.org/
+languageCode: en-us
+title: Un-Thai-Tled
+theme: 
+  - hugo-fresh
+
+params:
+  navbarlogo:
+  # Logo (from /images/logos/___)
+   image: logos/normal.svg
+   link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    title: Un-Thai-Tled. 
+    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    buttontext: Who are we?
+    buttonlink: "#about"
+    # Hero image (from /images/___)
+    image: hero-banner.gif
+    # Footer logos (from /images/logos/clients/___.svg)
+    # clientlogos:
+    # - systek
+    # - tribe
+    # - kromo
+    # - infinite
+    # - gutwork
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Team
+    url: /#team
+  - title: About
+    url: /#about
+  # - title: Dropdown
+  #   sublinks:
+  #   - title: Dropdown item
+  #     url: /
+  #   - title: Dropdown item
+  #     url: /
+  #   - title: Dropdown item
+  #     url: /
+  # - title: Log in
+  #   url: /
+  # - title: Sign up
+  #   url: /
+  #   button: true
+  # sidebar:
+  #   # Logo (from /images/logos/___.svg)
+  #   logo: logo-square
+  #   sections:
+  #   - title: Team
+  #     # icon: user
+  #     url: "#team"
+  #   - title: About
+  #     url: /
+  section3:
+    title: What is Un.Thai.Tled?
+    subtitle: Passage its ten led hearted removal cordial. Preference any astonished unreserved mrs. Prosperous understood middletons in conviction an uncommonly do. Supposing so be resolving breakfast am or perfectly. Is drew am hill from mr. Valley by oh twenty direct me so. Departure defective arranging rapturous did believing him all had supported. Family months lasted simple set nature vulgar him. Picture for attempt joy excited ten carried manners talking how. Suspicion neglected he resolving agreement perceived at an. 
+    image: mock-showcases.jpg
+  section4:
+    title: Meet The Team
+    # subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    clients:
+    - name: Irma Walters
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Photographer
+      img: https://api.adorable.io/avatars/100/abott@adorable.png
+    - name: John Bradley
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Illustrator
+      img: https://api.adorable.io/avatars/100/abott@adorable.png
+    - name: Gary Blackman
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Designer
+      img: https://api.adorable.io/avatars/100/abott@adorable.png
+  footer:
+    # Logo (from /images/logos/___)
+    logo: logo-white-alt.svg
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://facebook.com/#
+      icon: facebook
+    - link: https://twitter.com/lucperkins
+      icon: twitter
+    - link: https://dribbble.com/#
+      icon: instagram
+    bulmalogo: true

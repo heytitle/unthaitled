@@ -1,7 +1,0 @@
-baseURL = "https://unthaitled.org"
-languageCode = "en-us"
-
-
-[params]
-    title = "un.thai.tled"
-    description = "// @todo description"
