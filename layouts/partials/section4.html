@@ -13,18 +13,18 @@
     </div>
 
     <div class="content-wrapper">
-      <div class="columns is-vcentered">
+      <div class="columns is-vcentered is-multiline">
         {{- range $clients }}
         <div class="column is-4">
-          <figure class="testimonial">
+          <figure class="member">
+            <div class="author">
+              <img src="{{ printf "/images/%s" (string .img) | relURL }}" alt=""/>
+              <h5><b>{{ .name }}</b></h5>
+              <span><i>{{ .job }}</i></span>
+            </div>
             <blockquote>
               {{ .quote }}
             </blockquote>
-            <div class="author">
-              <img src="{{ .img }}" alt=""/>
-              <h5>{{ .name }}</h5>
-              <span>{{ .job }}</span>
-            </div>
           </figure>
         </div>
         {{- end }}
