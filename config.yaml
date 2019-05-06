@@ -1,6 +1,10 @@
 baseURL: https://unthaitled.org
 languageCode: en-us
-title: Un-Thai-Tled
+title: Un.Thai.Tled
+description:
+  > 
+    Collective of Thai creatives in Berlin. We organise events to showcase talents from Thailand and in Germany; to free ourselves from easy labels and stereotypes; to bring the narrative back to our hands.
+
 theme: 
   - hugo-fresh
 
@@ -13,8 +17,11 @@ params:
     name: "Open Sans"
     sizes: [400,600]
   hero:
-    title: Un-Thai-Tled. 
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    title: Un.Thai.Tled
+    subtitle:
+      > 
+        Collective of Thai creatives in Berlin. We organise events to showcase talents from Thailand and in Germany; to free ourselves from easy labels and stereotypes; to bring the narrative back to our hands.
+
     buttontext: Who are we?
     buttonlink: "#about"
     # Hero image (from /images/___)
@@ -56,24 +63,79 @@ params:
   #     url: /
   section3:
     title: What is Un.Thai.Tled?
-    subtitle: Passage its ten led hearted removal cordial. Preference any astonished unreserved mrs. Prosperous understood middletons in conviction an uncommonly do. Supposing so be resolving breakfast am or perfectly. Is drew am hill from mr. Valley by oh twenty direct me so. Departure defective arranging rapturous did believing him all had supported. Family months lasted simple set nature vulgar him. Picture for attempt joy excited ten carried manners talking how. Suspicion neglected he resolving agreement perceived at an. 
+    subtitle:
+      > 
+        We are a group of Thai creatives in Germany - not only we
+        encounter misconceptions and stereotypes within western
+        world, and their unconscious ignorance - but also the lack
+        of socio-cultural engagement between Thai and German people. 
+
+
+        Therefore our mission is to provide platform or opportunities 
+        for the creatives talents, with focus specifically on people from
+        Thailand/with Thai cultural-biological background - which
+        would lead to further collaboration/exchange projects between
+        people  - and through these we would be able to educate/inform/
+        evoke discussions amongst audiences about
+        certain topics related to Thailand, or being Thai. Because we are
+        the ‘untitled’, we wish to be freed from titles and easy labels
+        people tend to put on us. 
+
+
+        Now it’s time for you to listen carefully. We will organize series of events that focus on specific
+        medias, such as film or music, with interdisciplinary approach
+        (design + arts + academics) and intermedial aspect
+
+
+        And by the word “Thai”, we are by no means excluding ourselves 
+        from other cultural exchange events in Berlin - which we would
+        love to be in partnership with. We only make it clear, that our 
+        project “Un-Thai-Tled” focuses fore-mostly on creatives from 
+        Thailand / with Thai cultural-biological background.
+
+
+        For 2019 we will organize 3 official film screenings and 1 cultural evening.
     image: mock-showcases.jpg
   section4:
     title: Meet The Team
     # subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
     clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Photographer
-      img: https://api.adorable.io/avatars/100/abott@adorable.png
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Illustrator
-      img: https://api.adorable.io/avatars/100/abott@adorable.png
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Designer
-      img: https://api.adorable.io/avatars/100/abott@adorable.png
+    - name: SARNT UTAMACHOTE
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Founder, Project Manager
+      img: avatars/sarnt.png 
+    - name: WISANU PHU-ARTDUN
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Co-Founder, Creative Director
+      img: avatars/wisanu.png 
+    - name: NICHA BOONYAWAIROTE
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Project Manager, Public Relations
+      img: avatars/nicha.png 
+    - name: NATTHAPONG SAMAKKAEW
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Art Director
+      img: avatars/back.png 
+    - name: PADCHAWADEE EILYSHA THAMMASUDTHASIL
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Public Relations
+      img: avatars/padchawadee.png 
+    - name: THEERAWAT KLANGJAREONCHAI
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Art Director, Space Designer
+      img: avatars/theerawat.png 
+    - name: KANTATACH KIJTIKHUN 
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Music Coordinator, Photographer
+      img: avatars/kantatach.png 
+    - name: CHO KAEWYANURAK 
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Sound Production
+      img: avatars/cho.png 
+    - name: PREEYAWAN MANEERAT 
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Secretary, Finance
+      img: avatars/preeyawan.png 
   footer:
     # Logo (from /images/logos/___)
     logo: logo-white-alt.svg
