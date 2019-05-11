@@ -26,7 +26,7 @@ params:
     image: hero-banner.png
   navbar:
   - title: Thai Creatives Database
-    url: /thai-creatives-in-europe
+    url: /thai-creatives-in-germany
   - title: Team
     url: /#team
   - title: Event
