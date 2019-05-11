@@ -1,0 +1,7 @@
+{{- $layout := (printf "single/%s.html" .Params.layout) }}
+{{ partial "navbar.html" . }}
+{{ partial "navbar-clone.html" . }}
+
+{{ partial $layout . }}
+
+{{ partial "footer.html" . }}

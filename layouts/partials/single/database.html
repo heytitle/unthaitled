@@ -1,0 +1,44 @@
+<section class="section is-medium database">
+    <div class="container">
+        <div class="columns">
+            <div class="column is-centered">
+                <h1 class="title section-title">{{ .Title }}</h1>
+                <h5 class="subtitle is-5 is-muted">{{ .Params.Description }}</h5>
+                <div class="divider"></div>
+            </div>
+        </div>
+        {{- range sort $.Site.Data.thai_creatives "Firstname" }}
+            <figure class="member">
+                <h2>
+                    <b>
+                        <a href={{ .Webpage }} target="_blank">
+                            {{ .Firstname }} {{ .Lastname }}
+                            {{ if .Alias }}
+                                ({{ .Alias }})
+                            {{ end }}
+                        </a>
+                    </b>
+                    {{ if .EMAIL }}
+                        <a href="mail:{{ .EMAIL }}">
+                            <span class="icon"><i class="fa fa-envelope"></i></span>
+                        </a>
+                    {{ end }}
+
+                    {{ if .Facebook }}
+                        <a href="{{ .Facebook }}">
+                            <span class="icon"><i class="fa fa-fabook-square"></i></span>
+                        </a>
+                    {{ end }}
+
+                    {{ if .Instagram }}
+                        <a href="{{ .Instagram }}">
+                            <span class="icon"><i class="fa fa-instagram"></i></span>
+                        </a>
+                    {{ end }}
+                </h2>
+                <b>Based in</b> {{ .Base }} <br>
+                <b>Expertises:</b> {{ .Skills }}
+            </figure>
+        {{- end }}
+    </div>
+</section>
