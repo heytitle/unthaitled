@@ -1,0 +1,41 @@
+    - name: SARNT UTAMACHOTE
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Founder, Project Manager
+      img: avatars/sarnt.png 
+    - name: WISANU PHU-ARTDUN
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Co-Founder, Creative Director
+      img: avatars/wisanu.png 
+    - name: NICHA BOONYAWAIROTE
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Project Manager, Public Relations
+      img: avatars/nicha.png 
+    - name: NATTHAPONG SAMAKKAEW
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Art Director
+      img: avatars/back.png 
+    - name: PADCHAWADEE THAMMASUDTHASIL
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Public Relations
+      img: avatars/padchawadee.png 
+    - name: THEERAWAT KLANGJAREONCHAI
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Art Director, Space Designer
+      img: avatars/theerawat.png 
+    - name: KANTATACH KIJTIKHUN 
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Music Coordinator, Photographer
+      img: avatars/kantatach.png 
+    - name: CHO KAEWYANURAK 
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Sound Production
+      img: avatars/cho.png 
+    - name: PREEYAWAN MANEERAT 
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Secretary, Finance
+      img: avatars/preeyawan.png 
+    - name: PATTARAWAT CHORMAI
+      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      job: Web Development
+      img: avatars/preeyawan.png 
+    

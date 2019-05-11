@@ -1,6 +1,6 @@
 baseURL: https://unthaitled.org
 languageCode: en-us
-title: Un.Thai.Tled
+title: un.thai.tled
 description:
   > 
     Collective of Thai creatives in Berlin. We organise events to showcase talents from Thailand and in Germany; to free ourselves from easy labels and stereotypes; to bring the narrative back to our hands.
@@ -10,59 +10,31 @@ theme:
 
 params:
   navbarlogo:
-  # Logo (from /images/logos/___)
    image: logos/normal.svg
    link: /
   font:
     name: "Open Sans"
     sizes: [400,600]
   hero:
-    title: Un.Thai.Tled
+    title: un.thai.tled
     subtitle:
       > 
         Collective of Thai creatives in Berlin. We organise events to showcase talents from Thailand and in Germany; to free ourselves from easy labels and stereotypes; to bring the narrative back to our hands.
 
     buttontext: Who are we?
     buttonlink: "#about"
-    # Hero image (from /images/___)
-    image: hero-banner.gif
-    # Footer logos (from /images/logos/clients/___.svg)
-    # clientlogos:
-    # - systek
-    # - tribe
-    # - kromo
-    # - infinite
-    # - gutwork
-  # Customizable navbar. For a dropdown, add a "sublinks" list.
+    image: hero-banner.png
   navbar:
+  - title: Thai Creatives Database
+    url: /#
   - title: Team
     url: /#team
+  - title: Event
+    url: https://www.facebook.com/unthaitled
   - title: About
     url: /#about
-  # - title: Dropdown
-  #   sublinks:
-  #   - title: Dropdown item
-  #     url: /
-  #   - title: Dropdown item
-  #     url: /
-  #   - title: Dropdown item
-  #     url: /
-  # - title: Log in
-  #   url: /
-  # - title: Sign up
-  #   url: /
-  #   button: true
-  # sidebar:
-  #   # Logo (from /images/logos/___.svg)
-  #   logo: logo-square
-  #   sections:
-  #   - title: Team
-  #     # icon: user
-  #     url: "#team"
-  #   - title: About
-  #     url: /
   section3:
-    title: What is Un.Thai.Tled?
+    title: What is un.thai.tled?
     subtitle:
       > 
         We are a group of Thai creatives in Germany - not only we
@@ -95,56 +67,13 @@ params:
 
 
         For 2019 we will organize 3 official film screenings and 1 cultural evening.
-    image: mock-showcases.jpg
+    image: showcase.png
   section4:
     title: Meet The Team
-    # subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
-    clients:
-    - name: SARNT UTAMACHOTE
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-      job: Founder, Project Manager
-      img: avatars/sarnt.png 
-    - name: WISANU PHU-ARTDUN
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-      job: Co-Founder, Creative Director
-      img: avatars/wisanu.png 
-    - name: NICHA BOONYAWAIROTE
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-      job: Project Manager, Public Relations
-      img: avatars/nicha.png 
-    - name: NATTHAPONG SAMAKKAEW
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-      job: Art Director
-      img: avatars/back.png 
-    - name: PADCHAWADEE EILYSHA THAMMASUDTHASIL
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-      job: Public Relations
-      img: avatars/padchawadee.png 
-    - name: THEERAWAT KLANGJAREONCHAI
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-      job: Art Director, Space Designer
-      img: avatars/theerawat.png 
-    - name: KANTATACH KIJTIKHUN 
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-      job: Music Coordinator, Photographer
-      img: avatars/kantatach.png 
-    - name: CHO KAEWYANURAK 
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-      job: Sound Production
-      img: avatars/cho.png 
-    - name: PREEYAWAN MANEERAT 
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-      job: Secretary, Finance
-      img: avatars/preeyawan.png 
   footer:
-    # Logo (from /images/logos/___)
     logo: logo-white-alt.svg
-    # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://facebook.com/#
+    - link: https://www.facebook.com/unthaitled/
       icon: facebook
-    - link: https://twitter.com/lucperkins
-      icon: twitter
-    - link: https://dribbble.com/#
+    - link: https://www.instagram.com/unthaitled/
       icon: instagram
-    bulmalogo: true

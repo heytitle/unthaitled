@@ -1,7 +1,6 @@
 {{- $section4 := .Site.Params.section4 }}
 {{- $title    := index $section4 "title" }}
 {{- $subtitle := index $section4 "subtitle" }}
-{{- $clients  := index $section4 "clients" }}
 <section class="section is-medium section-secondary" id="team">
   <div class="container">
 
@@ -14,7 +13,7 @@
 
     <div class="content-wrapper">
       <div class="columns is-vcentered is-multiline">
-        {{- range $clients }}
+        {{- range $.Site.Data.team }}
         <div class="column is-4">
           <figure class="member">
             <div class="author">
