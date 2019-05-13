@@ -2,11 +2,20 @@
     display: none;
 }
 
+
 .hero-body {
     padding-top: 6rem;
     padding-bottom: 6rem;
-    background: black;
-    background-image: url("/images/hero-banner.gif");
+    background-image: url("/images/bg.png");
+    background-color: white;
+
+    animation: example 10s infinite;
+
+    @keyframes example {
+        50% {
+            background-color: #222;
+        }
+    }
 
     .title, .subtitle {
         font-family: 'Open Sans', sans-serif;
@@ -25,15 +34,30 @@
     }
 }
 
-.member {
-    .author {
-        margin-bottom: 10px;
+#team {
+    .container {
+        width: 70%;
+    }
 
-        @media (max-width: 767px) {
-            text-align: center;
+    .member {
+        .author {
+            margin-bottom: 10px;
+
+            @media (max-width: 767px) {
+                text-align: center;
+            }
+        }
+
+        blockquote {
+            height: 290px;
+
+            @media (max-width: 767px) {
+                height: auto;
+            }
         }
     }
 }
+
 
 footer.footer-dark {
     .footer-column {

@@ -1,41 +1,41 @@
     - name: SARNT UTAMACHOTE
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      quote: Bangkok, 1992. He moved to Berlin in 2015, where he taught himself all the techniques of filmmaking. He lives in constant attempt to critically deconstruct the obsession with the surface, to search for subtle humanistic aspect underneath - with respectful yet critical approach. He writes his own scripts, directs and edits different short films and music videos and participates in different fields of video-related medias. “Because I am human, anyway”
       job: Founder, Project Manager
       img: avatars/sarnt.png 
     - name: WISANU PHU-ARTDUN
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      quote: Berlin-based creative director who has backgrounds in advertising and marketing. Currently, he is now pursuing his master degree in Media Art and Design at Bauhaus University Weimar and co-founded the collective of Thai creative in Berlin ‘un.thai.tled’.
       job: Co-Founder, Creative Director
       img: avatars/wisanu.png 
     - name: NICHA BOONYAWAIROTE
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      quote: A master student in Media Art and Design at Bauhaus University Weimar whose main focuses are on media event and curating. With her background in communication design, she is familiar with both producing creative work herself and managing creative events.
       job: Project Manager, Public Relations
       img: avatars/nicha.png 
     - name: NATTHAPONG SAMAKKAEW
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      quote: Born in Krabi, Thailand, currently lives and works in Berlin, Germany. His works play with the observation of physical and digital world. He works with many mediums also drawing, collage, analog/digital painting and video.
       job: Art Director
       img: avatars/back.png 
     - name: PADCHAWADEE THAMMASUDTHASIL
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      quote: Berlin-based photographer, artist and content creator
       job: Public Relations
       img: avatars/padchawadee.png 
     - name: THEERAWAT KLANGJAREONCHAI
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      quote: A media artist who engages himself in many genres of visual arts. He opted to study communication design for his bachelor’s degree in Bangkok, and  decided to continue his studies in Berlin, Germany for his MA in Media Spaces. He is currently developing his practice based on the question of reality within the combination of digital and physical spaces.
       job: Art Director, Space Designer
       img: avatars/theerawat.png 
     - name: KANTATACH KIJTIKHUN 
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-      job: Music Coordinator, Photographer
+      quote: A Thai photographer based in Berlin. He has graduated from College of Music, Mahidol University and became a photographer and photographer assistant for Lips magazine before moved to Berlin. Today Kantatch is a photography student at University of Applied Sciences Europe, Berlin campus, and a member of "Untitled Project" group, a group of 11 Berlin-based photographers.
+      job: Music Coordinator
       img: avatars/kantatach.png 
-    - name: CHO KAEWYANURAK 
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-      job: Sound Production
-      img: avatars/cho.png 
     - name: PREEYAWAN MANEERAT 
-      quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      quote: Berlin-based cultural studies student at Europa Vladrina University Frankfurt Oder and has interest in music concerts and travelling.
       job: Secretary, Finance
       img: avatars/preeyawan.png 
     - name: PATTARAWAT CHORMAI
       quote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      quote: A programmer who lives in Berlin.
       job: Web Development
-      img: avatars/preeyawan.png 
-    
+      img: avatars/pattarawat.png 
+    - name: CHO KAEWYANURAK 
+      quote: Cho has been pushing the mellower side of dance music. He is a part of Jam on Toast and Slum Disco Soundsystem, who see themselves regularly at SEA venues. Professionally, he currently runs his music production house Yellowire Studio. Currently based in Berlin to work on his solo producer project Wong Echo, his current focus is on producing leftfield house and techno and releasing them on the local labels here.
+      job: Sound Production
+      img: avatars/cho.png 
