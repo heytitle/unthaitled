@@ -1,14 +1,13 @@
 baseURL: https://unthaitled.org
 languageCode: en-us
-title: un.thai.tled
-description:
-  > 
-    Collective of Thai creatives in Berlin. We organise events to showcase talents from Thailand and in Germany; to free ourselves from easy labels and stereotypes; to bring the narrative back to our hands.
-
+title: un.thai.tled | collective of Thai creatives in Berlin
 theme: 
   - hugo-fresh
 
 params:
+  description:
+    > 
+      We organise events to showcase talents from Thailand and in Germany; to free ourselves from easy labels and stereotypes; to bring the narrative back to our hands.
   navbarlogo:
    image: logos/normal.svg
    link: /
