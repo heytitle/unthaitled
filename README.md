@@ -6,3 +6,4 @@
 - [x] Artwork for first part (landing page)
 - [x] Artwork for 2nd part 
 - [x] Share cover, desc
+- [ ] Fix team intro width on mobile
